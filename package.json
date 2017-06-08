@@ -1,0 +1,28 @@
+{
+  "name": "html-starter",
+  "version": "1.0.0",
+  "description": "starter html template that keeps the footer always sticking to the bottom of your page.",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliAwwad/html-starter.git"
+  },
+  "keywords": [
+    "html-starter"
+  ],
+  "author": "AliAwwad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AliAwwad/html-starter/issues"
+  },
+  "homepage": "https://github.com/AliAwwad/html-starter#readme"
+}
